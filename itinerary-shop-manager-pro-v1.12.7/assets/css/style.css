@@ -1,0 +1,36 @@
+.shop-registration-form input,
+.shop-registration-form textarea,
+.shop-registration-form select {
+    width: 100%;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.shop-items-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background: white;
+}
+.shop-items-table th,
+.shop-items-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: white;
+    vertical-align: top;
+    text-align: left;
+}
+
+.tab-items ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.tab-items ul li {
+    background: white;
+    border: 1px solid #ddd;
+    margin-bottom: 8px;
+    padding: 10px;
+    font-weight: 500;
+    border-radius: 4px;
+}
